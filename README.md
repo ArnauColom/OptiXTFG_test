@@ -21,5 +21,5 @@
   
 - To enter the project enter the build folder, where you can open the Visual Studio solutions. 
 
-NOTE: To run one project you must set it as startup project inside visual Studio
-NOTE2: It is possible that you could need to move the support folder from the OptiX SDK folder to this folder
+- NOTE: To run one project you must set it as startup project inside visual Studio.
+- NOTE2: It is possible that you could need to move the support folder from the OptiX SDK folder to this folder.
