@@ -3,10 +3,10 @@
 # HOW TO INSTALL
 
 # Dependences
--> Visual Studio 2017 for Windows
--> CUDA 10.1
--> OptiX 7 SDK
--> CakeMAke
+-> Visual Studio 2017 for Windows\\
+-> CUDA 10.1\\
+-> OptiX 7 SDK\\
+-> CakeMAke\\
 
 # Build
 
