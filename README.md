@@ -5,7 +5,7 @@
 ## Dependences
 *  Visual Studio 2017 for Windows
 *  CUDA 10.1
-*  OptiX 7 SDK
+*  OptiX 7.0 version SDK
 *  CakeMAke
 
 ## Build
