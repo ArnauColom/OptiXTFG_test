@@ -11,7 +11,7 @@
 ## Build
 
 - **Install** the packages listed above.
-- **Clone** the respository (or download). And put it inside the rute C:\ProgramData\NVIDIA Corporation\OptiX SDK 7.0.0 (where OptiX is installed). 
+- **Clone** the respository (or download). And put it inside the rute C:\ProgramData\NVIDIA Corporation\OptiX SDK 7.0.0 (where OptiX is installed). Also copy the **support** folder inside C:\ProgramData\NVIDIA Corporation\OptiX SDK 7.0.0\SDK and paste it with the repository files. 
 - Open **CMake**.
   -point "**source directory**" to the downloaded source directory
   - point "**build directory**" to */build* (the directory should be created inside the source directory folder)
